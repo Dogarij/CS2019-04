@@ -1,4 +1,4 @@
-package com.company;
+package kpliakhanau.lesson4;
 
 public class taskA1 {
     public static void main(String[] args) {

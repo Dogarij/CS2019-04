@@ -1,4 +1,4 @@
-package com.company;
+package kpliakhanau.lesson4;
 
 import java.util.Scanner;
 

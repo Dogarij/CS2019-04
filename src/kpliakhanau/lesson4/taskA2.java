@@ -1,6 +1,5 @@
-package com.company;
+package kpliakhanau.lesson4;
 
-import java.lang.invoke.SwitchPoint;
 import java.util.Scanner;
 
 public class taskA2 {
